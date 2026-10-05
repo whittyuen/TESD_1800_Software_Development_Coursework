@@ -1,5 +1,5 @@
 # Software-Development
-Repo for use in my Software Development class. This is where I'll be saving my assignments.
+This repository contains my coursework for TESD 1800 Software Development at Southwest Tech.
 
 List of assignments:
 
